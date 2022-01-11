@@ -18,13 +18,13 @@ Let Me introduce myself to you ⚡:
 - ⚡ Fun fact: ***Robotic, Embedded system, Engineering, ...***
 
 #### Some of my tools :
-***✨Python***
+***🔥Python***
 ```print("See you soon !")``` 
-***✨Ruby***
+***🔥Ruby***
 ```puts "I'm a Nerd !"```
-***✨JavaScript***
+***🔥JavaScript***
 ```console.log("It's always Possible!")```
-***✨C++***
+***🔥C++***
 ```
 #include <isotream>
 int main()
