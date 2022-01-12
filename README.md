@@ -34,4 +34,4 @@ return 0;
 }
 ```
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed&theme=dark)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed&theme=dark) -->
