@@ -1,5 +1,5 @@
 ### Hi there, Here is Chris Kid 👋
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidchris&show_icons=true&theme=dracula)      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidchris&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidchris&show_icons=true&theme=dracula)      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidchris&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 | ----------- | ----------- |
 <!--
 **Kidchris/Kidchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
