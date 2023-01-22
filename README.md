@@ -1,5 +1,5 @@
 ### Hi there, Here is Chris Kid 👋
-[![trophy][![trophy](https://github-profile-trophy.vercel.app/?username=Kidchris&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kidchris&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 | ![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidchris&show_icons=true&theme=dracula&count_private=true)      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidchris&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 | ----------- | ----------- |
 <!--
