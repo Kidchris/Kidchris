@@ -18,17 +18,20 @@ Let Me introduce myself to you ⚡:
 
 #### Some of my tools :
 ***🔥Python***
-```print("See you soon !")``` 
-***🔥Ruby***
-```puts "I'm a Nerd !"```
-***🔥JavaScript***
-```console.log("It's always Possible!")```
-***🔥C++***
 ```
-#include <iostream>
-int main()
-{
-std::cout << "Reach me out whenever you want\n";
-return 0;
+print("See you soon !")
+``` 
+***🔥Ruby***
+``` 
+puts "I'm a Nerd !"
+```
+***🔥JavaScript***
+```
+console.log("It's always Possible!")
+```
+***🔥Rust***
+```
+fn main(){
+println!("Hello, I'm getting rusty");
 }
 ```
