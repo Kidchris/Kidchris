@@ -36,7 +36,7 @@ puts "I'm a Nerd !"
 ```
 console.log("It's always Possible!")
 ```
-<img src="https://img.shields.io/badge/🔥-Rust-blue?style"/>
+<img src="https://img.shields.io/badge/🔥-Rust-red?style"/>
 
 ```
 fn main(){
